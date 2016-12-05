@@ -1,31 +1,23 @@
 ## Proyecto de la asignatura TIO
 
-### Diferentes etapas a desarrollar.
+### Repositorio de datos usados para el proyecto
 
-**Pasos seguir**
+**Análisis de términos usados en las diferentes leyes de educación aprobadas en España desde 1857**
 
-    *Definir la problemática a desarrollar.
-    
-    * Indicar el nombre propuesto para su proyecto.
-    
-    * Propuesta tecnológica concreta a desarrollar
-    
-    * Fuentes de datos principales.
-    
-    * Procesamiento de estos datos y transformaciones.
-    
-    * Resultados esperados.
-    
-    * Diagrama Gantt del desarrollo del proyecto.
-    
-    * Propuesta de modelo de negocio para el desarrollo.
-    
-    * Creación de un repositorio de contenidos con los aportes del proyecto
+   El proyecto a desarrollar consiste en analizar la terminología usada en las 
+    leyes de educación españolas, con el objetivo de detectar diferencias 
+    significativas en los términos o palabras más usadas de manera que podamos 
+    detectar a qué se le daba mayor importancia en la educación hace 2 siglos y
+    qué tiene mayor importancia en la actualidad. También se pueden comparar las 
+    leyes propuestas por las diferentes formaciones políticas que han aprobados 
+    leyes de educación al llegar al poder, y quizás detectar los temas a los que 
+    da más importancia un partido político u otro o, por el contrario, quizás 
+    veamos que, al menos en el tema de la educación, no hay tantas diferencias 
+    entre ellos.
 
 
 
-
-
+![](https://1.bp.blogspot.com/-D1KNCR2WUGE/WEWd69lK9_I/AAAAAAAAABo/3z0Y99HGrpwnut9WkLnC6M46PkJi4o4bACLcB/s1600/Captura%2Bde%2Bpantalla%2Bde%2B2016-12-05%2B17%253A03%253A23.png)
 
 
 
