@@ -1,27 +1,31 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## Proyecto de la asignatura TIO
+
+### Diferentes etapas a desarrollar.
+
+**Pasos seguir**
+
+    *Definir la problemática a desarrollar.
+    
+    * Indicar el nombre propuesto para su proyecto.
+    
+    * Propuesta tecnológica concreta a desarrollar
+    
+    * Fuentes de datos principales.
+    
+    * Procesamiento de estos datos y transformaciones.
+    
+    * Resultados esperados.
+    
+    * Diagrama Gantt del desarrollo del proyecto.
+    
+    * Propuesta de modelo de negocio para el desarrollo.
+    
+    * Creación de un repositorio de contenidos con los aportes del proyecto
 
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
 
 
-## Support & Documentation
 
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
-# ProyectoTIO
+
+
+
