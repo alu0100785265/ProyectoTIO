@@ -1,7 +1,11 @@
-## Proyecto de la asignatura TIO
+# Proyecto de la asignatura TIO
 
 
-### Repositorio de datos usados para el proyecto
+## Repositorio de datos usados para el proyecto
+
+El script que hemos desarrollado está pensado para que sirva para analizar cualquier texto y que sea capaz de detectar los términos o palabras que más se repiten en él. También servirá para comparar la frecuencia de aparición de términos en varios textos a la vez, presentando los resultados en forma de gráficas. 
+
+Como ejemplo de la funcionalidad que tendrá este script escrito en R se han analizado las diferentes leyes de educación españolas como se explica en los informes.
 
 **Análisis de términos usados en las diferentes leyes de educación aprobadas en España desde 1857**
 
